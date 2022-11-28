@@ -82,7 +82,12 @@ Youtube: https://youtube.com/shorts/BATWXJJb4A4
 ---
 
 ## Authors and Acknowlegements:
+https://www.youtube.com/watch?v=dHQ-I7kr_SY&ab_channel=LaunchCode
 
+
+https://www.youtube.com/watch?v=oKmDgXZlGDI&ab_channel=WesleyDuBose
+
+https://backend.turing.edu/module1/lessons/object_relational_mapping
 
 
 ---
